@@ -1,0 +1,27 @@
+
+body{
+	background-image:url("luf.gif");
+	background-repeat:no-repeat;
+	background-size: cover;
+}
+button{
+	background-color:blue;
+	box-shadow: rgba(72, 135, 202, 0.8) 0 0 90px 33px;
+	color:white;
+    width:300px;
+	height:30px;
+}
+div{
+	
+	background-image:url("goku.gif");
+	background-size: cover;
+	box-shadow: rgba(72, 135, 202, 0.8) 0 0 90px 33px;
+	width:400px;
+	height:350px;
+	margin:auto;
+	padding:100px;
+}
+input{
+	width:300px;
+	height:20px;
+}

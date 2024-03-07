@@ -1,0 +1,23 @@
+body{
+	background-image:url("AIC.jfif");
+	background-size:cover;
+}
+button{
+    box-shadow: rgba(72, 135, 202, 0.8) 0 0 90px 33px;
+	background-color:green;
+	color:white;
+    width:420px;
+	height:30px;
+}
+div{
+	box-shadow: rgba(72, 135, 202, 0.8) 0 0 90px 33px;
+	color:black;
+background-image:url("sno.gif");
+	background-size: cover;
+	width:500px;
+	height:350px;
+	margin:auto;
+	padding:100px;
+}
+
+
